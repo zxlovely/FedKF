@@ -74,9 +74,7 @@ class ServerFedGen(ServerBase):
             self.aggregation(active_clients)
             # Aggregate local results
             self.aggregate_local_results('latest')
-            self.aggregate_local_results('global')
         self._print_results('latest')
-        self._print_results('global')
 
     def train_generator(self, active_clients, global_p, num_steps, batch_size, global_r):
         random_state = np.random.RandomState(seed=global_r)
