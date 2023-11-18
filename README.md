@@ -1,4 +1,4 @@
-# [Handling Data Heterogeneity in Federated Learning via Knowledge Fusion](https://arxiv.org/abs/2207.11447)
+# [Handling Data Heterogeneity in Federated Learning via Knowledge Distillation and Fusion](https://arxiv.org/abs/2207.11447)
 It contains implementation of the following algorithms:
 * FedAvg
 * FedProx
