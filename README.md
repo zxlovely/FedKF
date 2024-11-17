@@ -1,4 +1,4 @@
-# Official implementation of [Handling Data Heterogeneity for IoT Devices in Federated Learning: A Knowledge Fusion Approach](https://ieeexplore.ieee.org/abstract/document/10265259)
+# [Handling Data Heterogeneity for IoT Devices in Federated Learning: A Knowledge Fusion Approach](https://ieeexplore.ieee.org/abstract/document/10265259)
 It contains implementation of the following algorithms:
 * FedAvg
 * FedProx
